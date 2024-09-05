@@ -1,0 +1,15 @@
+[remap]
+
+importer="my.xlsx.plugin"
+type="EXCEL"
+uid="uid://dq8yuwr2kebn6"
+path="res://.godot/imported/xlsxexp.xlsx-869d06403b413cb4d7988d78959eed0a.xlsxload"
+
+[deps]
+
+source_file="res://data/xlsxexp.xlsx"
+dest_files=["res://.godot/imported/xlsxexp.xlsx-869d06403b413cb4d7988d78959eed0a.xlsxload"]
+
+[params]
+
+my_option=false
